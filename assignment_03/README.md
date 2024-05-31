@@ -18,4 +18,4 @@ The goal of the assignment is to train a YOLO model to detect Tomato ripeness.
 
 # Credit
 
-Dataset: https://data.mendeley.com/datasets/8h3s6jkyff/1
+Dataset: [A comprehensive dataset for sentiment and emotion classification from Bangladesh e-commerce reviews](https://www.sciencedirect.com/science/article/pii/S235234092400026X)
